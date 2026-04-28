@@ -1,0 +1,17 @@
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\bin\Debug\net10.0-windows\SecBQuestion2.exe
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\bin\Debug\net10.0-windows\SecBQuestion2.deps.json
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\bin\Debug\net10.0-windows\SecBQuestion2.runtimeconfig.json
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\bin\Debug\net10.0-windows\SecBQuestion2.dll
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\bin\Debug\net10.0-windows\SecBQuestion2.pdb
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.Form1.resources
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.Properties.Resources.resources
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.csproj.GenerateResource.cache
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.AssemblyInfoInputs.cache
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.AssemblyInfo.cs
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.csproj.CoreCompileInputs.cache
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.dll
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\refint\SecBQuestion2.dll
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.pdb
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\SecBQuestion2.genruntimeconfig.cache
+C:\Users\Shaune Makhubele\source\repos\SDTFA1\SecBQuestion2\obj\Debug\net10.0-windows\ref\SecBQuestion2.dll
