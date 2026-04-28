@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SecAQuestion1/1.0.0": {
+        "runtime": {
+          "SecAQuestion1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecAQuestion1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
